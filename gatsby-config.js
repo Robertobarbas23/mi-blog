@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `El blog de Roberto`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Roberto Cerdá`,
+      summary: `Cosas que pasan en San Franscico`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Un blog que me gustaria hacer`,
+    siteUrl: `https://Robertobarbas23.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `roberbarbas`,
     },
   },
   plugins: [

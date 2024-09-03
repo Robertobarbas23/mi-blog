@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "mi-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Un blog sobre el tema que me de la gana",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Roberto Cerdá <mathews.kyle@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/Robertobarbas23/mi-blog/issues"
   },
   "dependencies": {
     "@fontsource/merriweather": "^5.0.8",
